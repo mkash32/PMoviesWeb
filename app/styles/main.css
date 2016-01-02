@@ -1,0 +1,72 @@
+html,body {
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+div {
+  height: 100%;
+}
+
+.jumbotron{
+  margin:auto;
+}
+
+.topbar {
+  background-color: #D32F2F;
+
+}
+
+md-toolbar h2 {
+  color: #FFFFFF;
+  padding: 10px;
+  margin-left: 20px;
+  margin: auto;
+}
+
+.md-button {
+  width: 95%;
+  height: 100%;
+  background: #234FFF;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+md-list {
+  width:100%;
+  height: 100%;
+}
+
+.movieItemContainer{
+	background: #FFFFFF;
+	padding: 100px;
+}
+
+md-content{
+  height: 100%;
+  width: 100%;
+}
+
+md-content div{
+	height: 100%;
+	width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+.movie-details-container{
+  position: absolute;
+  margin: auto;
+	height: 100%;
+	width: 100%;
+}
+
+
+md-progress-circular{
+  margin: auto;
+}
+
+
+
+
+
